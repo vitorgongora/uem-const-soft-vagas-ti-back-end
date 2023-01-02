@@ -30,7 +30,9 @@ Só serão aceitas PRs que:
 
 ### Configurando a IDE
 
-* Importe o arquivo de configuração **File > Manage IDE Settings > Import Settings...**
+* Baixe e importe o arquivo de configuração  
+  https://drive.google.com/file/d/1MgaogGVJCNKYePGYasrf-IvnGFbHxAsg/view?usp=share_link  
+  **File > Manage IDE Settings > Import Settings...**
 * Com a IDE aberta vá em **Help > Edit Custom VM Options...** e insira o código abaixo para conseguir fazer uso do
   plugin google-java-format
 
