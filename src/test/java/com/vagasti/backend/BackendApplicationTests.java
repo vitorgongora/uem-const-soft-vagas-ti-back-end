@@ -11,8 +11,4 @@ class BackendApplicationTests {
   @Test
   void contextLoads() {}
 
-  @Test
-  void forceFail() {
-    fail("Expected exception was not thrown");
-  }
 }
