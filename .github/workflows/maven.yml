@@ -19,4 +19,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run tests
-        run: docker-compose -f /home/vitor/Documents/CONST/vagas-ti/backend/docker-compose-test.yml up postgres_vagasti vagasti_backend
+        run: docker-compose -f ./docker-compose.yml up postgres_vagasti vagasti_backend
