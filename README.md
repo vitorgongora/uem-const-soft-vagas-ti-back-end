@@ -46,11 +46,12 @@ Só serão aceitas PRs que:
 ### Executando a aplicação
 
 * Usando a GUI:
-  * Com o projeto aberto na IDE selecione docker-compose-dev ao lado esquerdo do botão Play e pressione Play para
-    executar os containers
-  * Para executar os testes selecione BackendApplicationTests e pressione Play para executar. Note que é preciso que os
-    containers já estejam em execução.
-  * Para iniciar o debugger inicialize os containers, selecione Docker e pressione o botão Debug (SHIFT+F9)
+    * Com o projeto aberto na IDE selecione docker-compose-dev ao lado esquerdo do botão Play e pressione Play para
+      executar os containers
+    * Para executar os testes selecione BackendApplicationTests e pressione Play para executar. Note que é preciso que
+      os
+      containers já estejam em execução.
+    * Para iniciar o debugger inicialize os containers, selecione Docker e pressione o botão Debug (SHIFT+F9)
 
 * Na linha de comando para rodar a aplicação:
 
